@@ -1,0 +1,54 @@
+.events
+{
+    width: 22rem; border-radius:7px; border:2px solid #e0e0e0;
+}
+
+
+.head
+{
+    height: 80vh;
+    background-image: url('https://www.raisingedmonton.com/wp-content/uploads/2017/07/Edmonton-Outdoor-Movies.jpg');
+    background-size: 100% 100%;
+}
+
+.movieimg
+{
+    width: 100%;
+    background-color: #fff;
+    border: 1px solid #dee2e6;
+    border-radius: .25rem;
+    max-width: 100%;
+    height: 300px;
+}
+
+.movieimg
+{
+    height: 35vh;
+    border: 3px solid grey;
+}
+
+#dates
+{
+    background-color: coral;
+    font-size: 30px;
+}
+
+.register{
+    color: white;
+}
+
+footer
+{
+    background-color:#e0e0e0;
+}
+
+.foot
+{
+    float: right;
+}
+
+.news
+{
+    border:2px solid grey;
+    border-radius: 7px;
+}
