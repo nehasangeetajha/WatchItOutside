@@ -1,4 +1,4 @@
-# WatchItOutside (Open Classrooms Project 2)
+# [WatchItOutside](https://nehasangeetajha.github.io/WatchItOutside/) (Open Classrooms Project 2)
 ## Analyze a client's needs for their film festival
 
 You are working for a freelance developer. Clara Dunn is the founder of Watch it outside events Co. and is organizing an outdoor film festival in Boston this year called ‘Watch it outside Boston edition’. She hopes to select and show films from August 5th to 8th in Boston Public Garden, a park in Boston that can hold up to 1,500 people. 🌉
